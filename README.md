@@ -20,9 +20,11 @@ Profiles:
 | Contest | Platform | High found | Medium found | Rank | Report |
 | ------- | -------- | ---------- | ------------ | ---- | ------ |
 | Footium | Sherlock | 2 | 1 | 7 | [Link](https://audits.sherlock.xyz/contests/71/report) |
-| Unitas | Sherlock | 1   | 0 | 112 | [Link](https://audits.sherlock.xyz/contests/73/report) |
 | DODO Margin Trading | Sherlock | 3 | 0 | 12 | [Link](https://audits.sherlock.xyz/contests/78/report) |
-| Index | Sherlock | 0 | 3 | 7 | [Link](https://audits.sherlock.xyz/contests/81/report) |
-| Beam | Sherlock | 0 | 0 | 15 | n/a |
 | USSD | Sherlock | 5 | 1 | 57 | [Link](https://audits.sherlock.xyz/contests/82/report) |
+| Unitas | Sherlock | 1  | 0 | 112 | [Link](https://audits.sherlock.xyz/contests/73/report) |
+| Index | Sherlock | 0 | 3 | 7 | [Link](https://audits.sherlock.xyz/contests/81/report) |
+| Real Wagmi | Sherlock | 1 | 0 | 106 | [Link](https://audits.sherlock.xyz/contests/88/report) |
 | DODO V3 | Sherlock | 0 | 3 | 19 | [Link](https://audits.sherlock.xyz/contests/89/report) |
+| Beam | Sherlock | 0 | 0 | 15 | n/a |
+| Tokemak | Sherlock | 1 | 0 | 74 | [Link](https://audits.sherlock.xyz/contests/101/report) |
