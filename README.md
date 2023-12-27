@@ -39,8 +39,16 @@ Profiles:
 | Real Wagmi Leverage | Sherlock | 0 | 1 | n/a | 8 | [Link](https://audits.sherlock.xyz/contests/118/report) |
 | Aloe | Sherlock* | 1 | 0 | n/a | 9 | [Link](https://audits.sherlock.xyz/contests/101/report) |
 | Looksrare | Sherlock* | 1 | 1 | n/a | 4 | [Link](https://audits.sherlock.xyz/contests/122/report) |
+| Nouns Builder | Sherlock* | 2 | 2 | n/a | 1 | [Link](https://audits.sherlock.xyz/contests/111/report) |
 
 `*= Particiaped as Team "SilentDefendersOfDefi"` 
+
+## Bug Bounty
+
+| Project | Platform | Severity | Payout |  Rank | Report |
+| ------- | -------- | -------- | ------ | ----- | ------ |
+| DeGate | Immunefi (Boosted)| High | 2,500$ | 7 | [Link](https://github.com/immunefi-team/Bounty_Boosts/blob/main/Report%2025927.md) |
+
 
 ## Judging Results
 
