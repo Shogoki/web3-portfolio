@@ -32,7 +32,7 @@ Profiles:
 | DODO V3 | Sherlock | 0 | 3  | n/a | 19 | [Link](https://audits.sherlock.xyz/contests/89/report) |
 | Beam | Sherlock | 0 | 0 | 15 | n/a | n/a | 
 | Tokemak | Sherlock | 1 | 0 | n/a | 74 | [Link](https://audits.sherlock.xyz/contests/101/report) |
-| ENS | Code4rena | 0 | 1 | 0 | TBD | TBD |
+| ENS | Code4rena | 0 | 1 | 0 | 9 | [Link](https://code4rena.com/reports/2023-10-ens) |
 | Cyfrin - DSC | Codehawks | 0 | 2 | 140 | 0 | [Link](https://www.codehawks.com/report/cljx3b9390009liqwuedkn0m0) |
 | BeedleFi | Codehawks | 3 | 0 | 82 | 2 | [Link](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx) |
 | Codehawks Escrow | Codehawks | 0 | 2 | 10 | 3 | [Link](https://www.codehawks.com/report/cljyfxlc40003jq082s0wemya) |
