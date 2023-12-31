@@ -23,7 +23,7 @@ Profiles:
 | Canto | Code4rena | 0 | 0 | B-Grade | 103 | [Link]([https://code4rena.com/reports/2023-03-asymmetry](https://code4rena.com/reports/2023-06-canto)) |
 | Ajna | Code4rena | 0 | 0 | B-Grade | 103 | [Link](https://code4rena.com/reports/2023-03-asymmetry) |
 | Assymetry | Code4rena | 1 | 0 | n/a | 103 | [Link]([https://code4rena.com/reports/2023-03-asymmetry](https://code4rena.com/reports/2023-05-ajna)) |
-| Footium | Sherlock | 2 | 1 | 7 | n/a | [Link](https://audits.sherlock.xyz/contests/71/report) |
+| Footium | Sherlock | 2 | 1 | n/a | 7 | [Link](https://audits.sherlock.xyz/contests/71/report) |
 | DODO Margin Trading | Sherlock | 3 | 0 | n/a | 12 | [Link](https://audits.sherlock.xyz/contests/78/report) |
 | USSD | Sherlock | 5 | 1 | n/a | 57 | [Link](https://audits.sherlock.xyz/contests/82/report) |
 | Unitas | Sherlock | 1  | 0 | n/a | 112 | [Link](https://audits.sherlock.xyz/contests/73/report) |
