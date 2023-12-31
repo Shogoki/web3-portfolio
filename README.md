@@ -33,9 +33,9 @@ Profiles:
 | Beam | Sherlock | 0 | 0 | 15 | n/a | n/a | 
 | Tokemak | Sherlock | 1 | 0 | n/a | 74 | [Link](https://audits.sherlock.xyz/contests/101/report) |
 | ENS | Code4rena | 0 | 1 | 0 | 9 | [Link](https://code4rena.com/reports/2023-10-ens) |
-| Cyfrin - DSC | Codehawks | 0 | 2 | 140 | 0 | [Link](https://www.codehawks.com/report/cljx3b9390009liqwuedkn0m0) |
-| BeedleFi | Codehawks | 3 | 0 | 82 | 2 | [Link](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx) |
-| Codehawks Escrow | Codehawks | 0 | 2 | 10 | 3 | [Link](https://www.codehawks.com/report/cljyfxlc40003jq082s0wemya) |
+| Cyfrin - DSC | Codehawks | 0 | 2 | 0 | 140 | [Link](https://www.codehawks.com/report/cljx3b9390009liqwuedkn0m0) |
+| BeedleFi | Codehawks | 3 | 0 | 2 | 82 | [Link](https://www.codehawks.com/report/clkbo1fa20009jr08nyyf9wbx) |
+| Codehawks Escrow | Codehawks | 0 | 2 | 3 | 10 | [Link](https://www.codehawks.com/report/cljyfxlc40003jq082s0wemya) |
 | Real Wagmi Leverage | Sherlock | 0 | 1 | n/a | 8 | [Link](https://audits.sherlock.xyz/contests/118/report) |
 | Aloe | Sherlock* | 1 | 0 | n/a | 9 | [Link](https://audits.sherlock.xyz/contests/101/report) |
 | Looksrare | Sherlock* | 1 | 1 | n/a | 4 | [Link](https://audits.sherlock.xyz/contests/122/report) |
