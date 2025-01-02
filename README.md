@@ -2,9 +2,9 @@
 
 # About me
 
-I am a independent Web3 Security Researcher. Regularly participating in competitive Audits on Sherlock, Code4rena and Codehawks. Also doing Web2 & Web3 Bug Bounties from time to time.
+I am a Web3 Security Researcher. In the past I regularly participated in competitive Audits on Sherlock, Code4rena and Codehawks. Also doing Web2 & Web3 Bug Bounties from time to time.
 
-If you are interested in a private Audit/Security Review, feel free to drop me a DM on [X (Twitter)](https://twitter.com/theshogoki).
+Riht nor I am a core Contributor at Sherlock, working as an internal Security Researcher.
 
 Profiles:
 
@@ -12,9 +12,6 @@ Profiles:
 - [LinkedIn](https://www.linkedin.com/in/sven-igl-5b4015209)
 - [Sherlock](https://audits.sherlock.xyz/watson/shogoki)
 - [Sherlock Team (SilentDefendersOfDefi)](https://audits.sherlock.xyz/watson/SilentDefendersOfDeFi)
-- [Code4Rena](https://code4rena.com/@Shogoki)
-- [CodeHawks](https://www.codehawks.com/profile/clk41btup004qla08w6tg0mnp)
-- [Cantina](https://cantina.xyz/u/Shogoki)
 
 ## Competitive Audits Results
 
@@ -50,6 +47,4 @@ Profiles:
 | DeGate | Immunefi (Boosted)| High | 2,500$ | 7 | [Link](https://github.com/immunefi-team/Bounty_Boosts/blob/main/Report%2025927.md) |
 
 
-## Judging Results
 
-Coming soon...
